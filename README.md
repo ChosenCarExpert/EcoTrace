@@ -1,1 +1,1 @@
-# EcoScan
+# EcoTrace
